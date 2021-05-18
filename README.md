@@ -15,10 +15,10 @@
 
 1. What Are the Top Bike Stations in the City for Starting a Journey?
 2. When are users using the bikes?
-3. what is the length of time that bikes are checked out for each gender?
-4. what are the number of bike trips by weekday for each hour of the day as a heatmap?
-5. what are the number of bike trips by gender for each hour of each day of the week as a heatmap?
-6. what are the number of bike trips for each type of user and gender for each day of the week?
+3. What is the length of time that bikes are checked out for each gender?
+4. What are the number of bike trips by weekday for each hour of the day as a heatmap?
+5. What are the number of bike trips by gender for each hour of each day of the week as a heatmap?
+6. What are the number of bike trips for each type of user and gender for each day of the week?
 7. What Are the Top Bike Stations for Ending a Journey?
 
 
@@ -31,19 +31,19 @@ Top Starting Locations are highly concentrated around the most populous areas (M
 Riders are interested in shorter rides.
 ![Checkout Time by Users](./Resources/checkout_time_users.png)
 
-- what is the length of time that bikes are checked out for each gender?
+- What is the length of time that bikes are checked out for each gender?
 Checkout Time by Gender - Men make up most of the user population.
 ![Checkout Time by Gender](./Resources/checkout_time_gender.png)
 
-- what are the number of bike trips by weekday for each hour of the day as a heatmap?
+- What are the number of bike trips by weekday for each hour of the day as a heatmap?
 Trips by Weekday for Each Hour - Weekday rider traffic peaks at traditional commuting times while weekends are at gradual use throughout the day.
 ![Trips by Weekday for Each Hour](./Resources/trips_weekday_each_hour.png)
 
-- what are the number of bike trips by gender for each hour of each day of the week as a heatmap?
+- What are the number of bike trips by gender for each hour of each day of the week as a heatmap?
 Trips by Gender (Weekday per Hour) - Males and females have the same high traffic times throughout the week.
 ![Trips by Gender Weekday Per Hour](./Resources/trips_weekday_gender_per_hour.png)
 
--  what are the number of bike trips for each type of user and gender for each day of the week?
+-  What are the number of bike trips for each type of user and gender for each day of the week?
 Trips by Gender by Weekday - The most common usertype are male subscribers with Thursdays being their most frequently used day of the week.
 ![Trips by Gender by Weekday](./Resources/trips_weekday_gender.png)
 
