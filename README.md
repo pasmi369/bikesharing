@@ -23,32 +23,32 @@
 
 
 ### To answer these questions I came up with the following visualizations:
-- What Are the Top Bike Stations in the City for Starting a Journey?
-  Top Starting Locations are highly concentrated around the most populous areas (Mid and Lower Manhattan).
+What Are the Top Bike Stations in the City for Starting a Journey?
+- Top Starting Locations are highly concentrated around the most populous areas (Mid and Lower Manhattan).
 ![Starting Locations](./Resources/starting_locations.png)
 
-- When are users using the bikes?
-  Riders are interested in shorter rides.
+When are users using the bikes?
+- Riders are interested in shorter rides.
 ![Checkout Time by Users](./Resources/checkout_time_users.png)
 
-- What is the length of time that bikes are checked out for each gender?
-  Checkout Time by Gender - Men make up most of the user population.
+What is the length of time that bikes are checked out for each gender?
+- Checkout Time by Gender - Men make up most of the user population.
 ![Checkout Time by Gender](./Resources/checkout_time_gender.png)
 
-- What are the number of bike trips by weekday for each hour of the day as a heatmap?
-  Trips by Weekday for Each Hour - Weekday rider traffic peaks at traditional commuting times while weekends are at gradual use throughout the day.
+What are the number of bike trips by weekday for each hour of the day as a heatmap?
+- Trips by Weekday for Each Hour - Weekday rider traffic peaks at traditional commuting times while weekends are at gradual use throughout the day.
 ![Trips by Weekday for Each Hour](./Resources/trips_weekday_each_hour.png)
 
-- What are the number of bike trips by gender for each hour of each day of the week as a heatmap?
-  Trips by Gender (Weekday per Hour) - Males and females have the same high traffic times throughout the week.
+What are the number of bike trips by gender for each hour of each day of the week as a heatmap?
+- Trips by Gender (Weekday per Hour) - Males and females have the same high traffic times throughout the week.
 ![Trips by Gender Weekday Per Hour](./Resources/trips_weekday_gender_per_hour.png)
 
--  What are the number of bike trips for each type of user and gender for each day of the week?
-  Trips by Gender by Weekday - The most common usertype are male subscribers with Thursdays being their most frequently used day of the week.
+What are the number of bike trips for each type of user and gender for each day of the week?
+- Trips by Gender by Weekday - The most common usertype are male subscribers with Thursdays being their most frequently used day of the week.
 ![Trips by Gender by Weekday](./Resources/trips_weekday_gender.png)
 
-- What Are the Top Bike Stations in the City for Ending a Journey?
-  Top Ending Locations - Due to shorter rides top ending locations are also concentrated around the most populous areas( Mid and lower Manhattan)
+What Are the Top Bike Stations in the City for Ending a Journey?
+- Top Ending Locations - Due to shorter rides top ending locations are also concentrated around the most populous areas( Mid and lower Manhattan)
 ![Ending Locations](./Resources/ending_locations.png)
 
 ### Summary:
