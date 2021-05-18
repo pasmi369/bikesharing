@@ -6,7 +6,9 @@
 - In order to complete this analysis, I used Python's pandas library to clean up the data and then created visualizations of that data using Tableau.
 
 ### Data Citation:
-File 201908-citibike-tripdata.csv was downloaded from the [Citi Bike System Data](https://www.citibikenyc.com/system-data) site.
+- File 201908-citibike-tripdata.csv was downloaded from the [Citi Bike System Data](https://www.citibikenyc.com/system-data) site.
+- Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00)
+- ![TripColumn Datetime](./Resources/tripcolumn_datetime.png)
 
 ### Results:
 ### Throughout this analysis I wanted to answer the following questions:
@@ -23,31 +25,31 @@ File 201908-citibike-tripdata.csv was downloaded from the [Citi Bike System Data
 ### To answer these questions I came up with the following visualizations:
 - What Are the Top Bike Stations in the City for Starting a Journey?
 Top Starting Locations are highly concentrated around the most populous areas (Mid and Lower Manhattan).
-![Starting Locations](./Resources/starting_locations)
+![Starting Locations](./Resources/starting_locations.png)
 
 - When are users using the bikes?
 Riders are interested in shorter rides.
-![Checkout Time by Users](./Resources/checkout_time_users)
+![Checkout Time by Users](./Resources/checkout_time_users.png)
 
 - what is the length of time that bikes are checked out for each gender?
 Checkout Time by Gender - Men make up most of the user population.
-![Checkout Time by Gender](./Resources/checkout_time_gender)
+![Checkout Time by Gender](./Resources/checkout_time_gender.png)
 
 - what are the number of bike trips by weekday for each hour of the day as a heatmap?
 Trips by Weekday for Each Hour - Weekday rider traffic peaks at traditional commuting times while weekends are at gradual use throughout the day.
-![Trips by Weekday for Each Hour](./Resources/trips_weekday_each_hour)
+![Trips by Weekday for Each Hour](./Resources/trips_weekday_each_hour.png)
 
 - what are the number of bike trips by gender for each hour of each day of the week as a heatmap?
 Trips by Gender (Weekday per Hour) - Males and females have the same high traffic times throughout the week.
-![Trips by Gender Weekday Per Hour](./Resources/trips_weekday_gender_per_hour)
+![Trips by Gender Weekday Per Hour](./Resources/trips_weekday_gender_per_hour.png)
 
 -  what are the number of bike trips for each type of user and gender for each day of the week?
 Trips by Gender by Weekday - The most common usertype are male subscribers with Thursdays being their most frequently used day of the week.
-![Trips by Gender by Weekday](./Resources/trips_weekday_gender)
+![Trips by Gender by Weekday](./Resources/trips_weekday_gender.png)
 
 - What Are the Top Bike Stations in the City for Ending a Journey?
 Top Ending Locations - Due to shorter rides top ending locations are also concentrated around the most populous areas( Mid and lower Manhattan)
-![Ending Locations](./Resources/ending_locations)
+![Ending Locations](./Resources/ending_locations.png)
 
 ### Summary:
 Based on the findings above, these are the top takeaways to create a successful citibike program in Des Moines.
